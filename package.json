@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Cheyenne Ward's Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheyenneWard/Portfolio.git"
+  },
+  "author": "Cheyenne Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheyenneWard/Portfolio/issues"
+  },
+  "homepage": "https://github.com/CheyenneWard/Portfolio#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.18.9"
+  }
+}
